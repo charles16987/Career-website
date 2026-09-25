@@ -1,0 +1,6 @@
+{
+  "name": "CareerDrift - Career Guidance & Consultation",
+  "description": "Calm, premium job consultation and career guidance. Find direction, build confidence, and move forward with clarity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
